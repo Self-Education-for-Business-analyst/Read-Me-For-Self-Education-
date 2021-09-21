@@ -2,9 +2,6 @@
 
 
 
-<p align="center">
-			<a href="https://github.com/nancyalaswad90"><img src="https://img.shields.io/github/followers/nancyalaswad90.svg?label=GitHub&style=social" alt=" Nancy Al Aswad GitHub" height="60"></a>
-</p>
 
 
 <p align="center">
