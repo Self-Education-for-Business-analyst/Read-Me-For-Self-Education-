@@ -2,6 +2,16 @@
 
 
 
+
+
+	<a href="https://github.com/nancyalaswad90"><img src="https://img.shields.io/github/followersnancyalaswad90.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
+
+<p align="center">
+		<a href="https://github.com/nancyalaswad90"><img src="https://img.shields.io/github/followersnancyalaswad90.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
+</p>
+
+
+
 <p align="center">
 	<a href="https://github.com/nancyalaswad90"><img src="https://img.shields.io/github/followers/crazyindiandeveloper.svg?label=GitHub&style=social" alt="GitHub" height="20"></a>
 </p>
