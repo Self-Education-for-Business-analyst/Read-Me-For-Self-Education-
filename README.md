@@ -16,75 +16,72 @@
 
 	
 	
-	
-	
-### About Me : <img src="https://github.com/CrazyIndianDeveloper/Dust/blob/main/Sunglasses.gif" width="30px">
 
-I'm an student of **Computer Application**. I'm very passionate about making my own tools for **Kali Linux,**. Some technologies I enjoy working with, include :`Java, CPP, JavaScript, C, CSS, HTML, Python.` I am also Studying **Cyber Security And Ethical Hacking**.I also Love Sharing my knowledge with others. I love **Mentoring Juniors**.
+| **[ Online Education for each School](https://github.com/nancyalaswad90/ONLINE-EDUCATION-for-each-School/blob/main/README.md)**|
+ | ------------ | 
 
-
-<br />
-
-## **Talking about Personal Stuffs:**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-- 🌱 I’m currently learning **Computer Applications And Cyber Security**.	
-- 👯 I’m looking to collaborate on **College Project And Ethical Hacking** 🤝
-- 🤔 I’m looking for help with **Open-Source Contribution** :-)
-- 💬 Ask me about anything, I am happy to help.
-- ⚡️ [**Crazy Indian Developer**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) : My future Project which helps the community to better understand about various **Programming Languages ,Cyber Security and Hacking.** 
-- ⚡️ Crazy Indian Developer --> [**YouTube**](https://www.youtube.com/channel/UCnij5U2Ic3PtpzCWmmydP7g?sub_confirmation=1) **&** [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en)
-- 📫 How to reach me: [**Instagram**](https://www.instagram.com/crazy_indian_developer/?hl=en) - I just love meeting people here.
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!!</b> 😊</em>
+| **[School of Business](https://github.com/nancyalaswad90/The-School-of-Business/blob/main/README.md)** | **[School of Data Science](https://github.com/nancyalaswad90/School-of-Data-Science/blob/main/README.md)** | **[School of  Artificial Intelligence](https://github.com/nancyalaswad90/School-of-Artificial-Intelligence/blob/main/README.md)** | **[School of Programming & Development](https://github.com/nancyalaswad90/School-of-Programming-Development)**| **[School of Cloud Computing](https://github.com/nancyalaswad90/School-of-Cloud-Computing/blob/main/README.md)**|**School of  Autonomous Systems**| 
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
 
 
-<br/>
-
-
-## **Languages and Tools:**  
-
-
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyindiandeveloper&layout=compact&theme=material-palenight" />
-
-
-<br/>
-
-<p><br/>&nbsp;<img align="center"[states] src="https://github-readme-stats.vercel.app/api?username=crazyindiandeveloper&show_icons=true&locale=en&show_owner=true" alt="crazyindiandeveloper	" /></p>
-
-## My Popular repositories
-<a href="https://github.com/crazyindiandeveloper/XeroSploit-Installer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=XeroSploit-Installer&theme=material-palenight" />
-</a>
-
-
-<a href="https://github.com/CrazyIndianDeveloper/DesktopWatchV1.0">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazyindiandeveloper&repo=DesktopWatchV1.0&theme=material-palenight" />
-</a>
-<br />
-
-## THANK YOU !  :sparkling_heart:  
+.
 
 
 
-<!--
-**CrazyIndianDeveloper/CrazyIndianDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-- 🔭 I’m currently working on ...
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...👋
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...💻
-- 💬 Ask me about ...👋🏾‍
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| **😄 Languages and tools**|
+ | ------------ | 
+
+| **[SQL](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |**[Python](https://github.com/nancyalaswad90/Python-Courses)**|  [Tableau ](https://public.tableau.com/profile/nancy.al.aswad#!/) | [Power BI](https://github.com/nancyalaswad90/Power-BI) |[OpenRefine](https://openrefine.org/) |**[Java](https://github.com/nancyalaswad90/Project-for-Vehicle-Accident-Application/blob/main/README.md)**  | **HTML**| **CSS**|**JavaScript**| **R** |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ | ------------ | ------------ |------------ |
+
+
+
+.
+
+
+
+|![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=nancyalaswad90&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancyalaswad90&theme=algolia)|
+| ------------ | ------------ | 
+
+
+.
+
+
+
+| **📫 How to reach me**|
+ | ------------ | 
+
+
+|**[linkedin](https://www.linkedin.com/in/nancy-al-aswad-b001b4124/)** |**[Twitter](https://twitter.com/AswadNancy?s=03/ "Twitter")**| **[UpWork ](https://www.upwork.com/o/profiles/users/~01aea1b28cadcbe913/)** | **[Guru](https://www.guru.com/pro/ProfileBuild.aspx?tab=5&pscount=0)** | **[Fiverr](https://www.fiverr.com/nancyalaswad?public_mode=true)** |**[Power BI](https://github.com/nancyalaswad90/Power-BI)** |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+|**[Kaggle](https://www.kaggle.com/nancyalaswad90)**| **[hackerrank](https://www.hackerrank.com/nancyalaswad90)** | **[freelancer](https://www.freelancer.com/u/nancyalaswad90)** | **[Corporate Finance Institute® (CFI) Profile](https://dashboard.corporatefinanceinstitute.com/my-profile/)** |**[IMA ](https://github.com/nancyalaswad90/IMA-Accounting-Certifications)** | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) |
+| [data Camp](https://learn.datacamp.com/career-tracks) | [Google Developers](https://developers.google.com/profile/u/116039305746026612185) | [Stack overflow](https://stackoverflow.com/users/12555055/nancy-al-aswad) | [SoloLearn ]() | ------------ |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
+
+
+
+
+.
+
+
+
+
+| **💡  Annual Intenship**|
+ | ------------ | 
+
+
+| **[Outreachy Internship](https://www.outreachy.org/docs/internship/) in Feb & Aug**| **[Women Who Code Scholarship ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Women%20Who%20Code%20Scholarship%20.md)** | **[WQU Team](https://wqu-ds.tditrain.com/hub/home#info)**  |**[GOOGLE CAREER Certifications](https://grow.google/certificates/?utm_source=gDigital&utm_medium=programgn&utm_campaign=gn&utm_content&utm_term#?modal_active=none)**  | **[LeetCode](https://leetcode.com/Nancy_Al_Aswad90/)** | **[Microsoft & LinkedIn  Certifications](https://www.elmin7a.com/free-courses-offered-by-microsoft-and-linkedin-with-free-certificates/)** |
+| ------------ | ------------ | ------------ |------------ | ------------ | ------------ |
+
+
+.
+
+### **[Nominate me as GitHub Star 🌟](https://stars.github.com/nominate/)**
+
+
+
+.
