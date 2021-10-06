@@ -6,18 +6,6 @@
 
 
 
-<p align="center">
-			<a href="https://github.com/nancyalaswad90"><img src="https://img.shields.io/github/followers/nancyalaswad90.svg?label=GitHub&style=social" alt="GitHub" height="60"></a>
-	
-
-</p>
-</p>
-
-
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1044" height="500">
-
-	
-	
 	
 
 ==================================
